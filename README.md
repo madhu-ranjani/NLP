@@ -3,7 +3,7 @@ Tokenization functions
 
 Stemming functions
 
-Lemmatization
+Lemmatization functions
 
 Cosine similarity
 
